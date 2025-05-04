@@ -1,0 +1,7 @@
+discord.py
+python-dotenv
+yt-dlp
+ffmpeg
+playwright
+urllib3
+aiohttp
