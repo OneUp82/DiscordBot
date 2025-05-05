@@ -5,3 +5,4 @@ ffmpeg
 playwright
 urllib3
 aiohttp
+PyNaCl
