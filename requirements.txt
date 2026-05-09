@@ -6,3 +6,4 @@ playwright
 urllib3
 aiohttp
 PyNaCl
+davey
